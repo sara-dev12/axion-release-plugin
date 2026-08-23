@@ -3,7 +3,7 @@ axion-release-plugin
 
 *gradle release and version management plugin*
 
-[![Build Status](https://github.com/allegro/axion-release-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/allegro/axion-release-plugin/actions/workflows/ci.yml)
+[![Build Status](https://github.com/sara-dev12/axion-release-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/sara-dev12/axion-release-plugin/actions/workflows/ci.yml)
 [![readthedocs](https://readthedocs.org/projects/axion-release-plugin/badge/?version=latest) ](http://axion-release-plugin.readthedocs.org/en/latest/)
 ![Maven Central](https://img.shields.io/maven-central/v/pl.allegro.tech.build/axion-release-plugin)
 [![Gradle Plugin Portal](https://img.shields.io/gradle-plugin-portal/v/pl.allegro.tech.build.axion-release)](https://plugins.gradle.org/plugin/pl.allegro.tech.build.axion-release)

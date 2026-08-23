@@ -188,7 +188,7 @@ Property `scmVersion.previousVersion` contains the previous version String.
 This property is never null.
 If there are no previous tags `previousVersion` will be the same as undecorated current version.
 This property is useful for scenarios like automated changelog generation between previous and current version
-([#138](https://github.com/allegro/axion-release-plugin/issues/138)).
+([#138](https://github.com/sara-dev12/axion-release-plugin/issues/138)).
 Example usage:
 
 ```

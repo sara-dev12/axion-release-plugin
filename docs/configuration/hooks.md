@@ -103,7 +103,7 @@ any closure that accepts `HookContext` object:
 
 - *logger* - instance of Gradle project logger
 -
-*position* - [ScmPosition](https://github.com/allegro/axion-release-plugin/blob/master/src/main/java/pl/allegro/tech/build/axion/release/domain/scm/ScmPosition.java)
+*position* - [ScmPosition](https://github.com/sara-dev12/axion-release-plugin/blob/master/src/main/java/pl/allegro/tech/build/axion/release/domain/scm/ScmPosition.java)
 - *previousVersion* - version before release
 - *currentVersion* - released version
 - *readVersion()* - force reevaluation of version, returns fresh

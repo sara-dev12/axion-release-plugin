@@ -2,7 +2,7 @@ site_name: axion-release-plugin
 site_description: Gradle release & version mamangement plugin.
 site_author: allegro.tech
 
-repo_url: https://github.com/allegro/axion-release-plugin
+repo_url: https://github.com/sara-dev12/axion-release-plugin
 edit_uri: edit/main/docs/
 
 theme:
@@ -19,7 +19,7 @@ markdown_extensions:
 
 nav:
   - Home: 'index.md'
-  - Changelog: 'https://github.com/allegro/axion-release-plugin/releases'
+  - Changelog: 'https://github.com/sara-dev12/axion-release-plugin/releases'
   - Examples: 'examples/examples.md'
   - Configuration:
     - Overview: 'configuration/overview.md'

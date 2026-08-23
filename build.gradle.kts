@@ -110,8 +110,8 @@ tasks {
 }
 
 gradlePlugin {
-    website.set("https://github.com/allegro/axion-release-plugin")
-    vcsUrl.set("https://github.com/allegro/axion-release-plugin")
+    website.set("https://github.com/sara-dev12/axion-release-plugin")
+    vcsUrl.set("https://github.com/sara-dev12/axion-release-plugin")
     plugins {
         create("release") {
             id = "pl.allegro.tech.build.axion-release"
@@ -130,7 +130,7 @@ publishing {
             pom {
                 name.set(project.name)
                 description.set("Gradle release and version management plugin")
-                url.set("https://github.com/allegro/axion-release-plugin")
+                url.set("https://github.com/sara-dev12/axion-release-plugin")
                 inceptionYear.set("2014")
                 licenses {
                     license {
@@ -149,9 +149,9 @@ publishing {
                     }
                 }
                 scm {
-                    url.set("https://github.com/allegro/axion-release-plugin")
-                    connection.set("scm:git@github.com:allegro/axion-release-plugin.git")
-                    developerConnection.set("scm:git@github.com:allegro/axion-release-plugin.git")
+                    url.set("https://github.com/sara-dev12/axion-release-plugin")
+                    connection.set("scm:git@github.com:sara-dev12/axion-release-plugin.git")
+                    developerConnection.set("scm:git@github.com:sara-dev12/axion-release-plugin.git")
                 }
             }
         }
